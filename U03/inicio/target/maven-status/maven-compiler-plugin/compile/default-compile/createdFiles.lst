@@ -1,0 +1,5 @@
+mx\edu\backendacademico\domain\EstatusAlumno.class
+mx\edu\backendacademico\controller\SaludoController.class
+mx\edu\backendacademico\BackendAcademicoApplication.class
+mx\edu\backendacademico\domain\Materia.class
+mx\edu\backendacademico\domain\Alumno.class
